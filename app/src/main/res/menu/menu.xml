@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item0"
+        android:title="@string/title_home"
+        android:icon="@drawable/ridersmall"/>
+
+    <item
+        android:id="@+id/item1"
+        android:title="@string/earnings"
+        android:icon="@drawable/money"/>
+
+    <item
+        android:id="@+id/item2"
+        android:title="@string/profile"
+        android:icon="@drawable/user"/>
+
+    <item
+        android:id="@+id/item3"
+        android:title="@string/performance"
+        android:icon="@drawable/speed"/>
+
+</menu>
